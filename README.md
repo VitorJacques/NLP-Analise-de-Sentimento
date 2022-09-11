@@ -31,3 +31,22 @@ sentiment: 0, se negativo; 1, se positivo; 2, se neutro
 
 
 query_used: Filtro utilizado para buscar a publicação
+
+
+PRINCIPAIS PONTOS ABORDADOS:
+
+EDA
+
+Tratramento de emojis
+
+Lemmatization
+
+Utilização de Regex
+
+Stopwords
+
+Tokenização
+
+Criação de modelos de classificação 
+
+Avalição de modelos
